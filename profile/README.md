@@ -1,4 +1,4 @@
-# 💠 Tachyon Lattice Dynamics (TLD)
+# Tachyon Dynamics TD
 ### *Advancing the Recursive Nature of Life*
 
 Tachyon Lattice Dynamics is a sovereign research organization dedicated to the convergence of **Fractal Mathematics**, **High Efficiency Materials Science**, and **Autonomous Computing**. 
@@ -7,7 +7,7 @@ Our mission is to translate vector geometry, which is the fundamental recusrive 
 
 ---
 
-## 🔬 Core Pillars of Research
+## Core Pillars of Research
 
 ### **1. Unified Fractal Theory**
 The theoretical foundation for all TLD projects. We move beyond linear models to explore geometric scaling and standing wave resonances. 
@@ -16,7 +16,7 @@ The theoretical foundation for all TLD projects. We move beyond linear models to
 ### **2. Vortex Lattice Systems (VXL)**
 The software layer. Implementing bit-perfect data restoration and forensic genomic auditing. Our algorithms are designed for High Accuracy Resonance, allowing 3.0GB+ datasets (like the T2T Human Genome) to be processed with zero drift on low resource hardware.
 
-## 🏛 Intellectual Sovereignty & Licensing
+## Intellectual Sovereignty & Licensing
 
 Tachyon Lattice Dynamics operates under a **Sovereign First Policy**:
 * **Open Access:** Core utilities are released under **GPLv3** to ensure the technology remains in the hands of the people.
