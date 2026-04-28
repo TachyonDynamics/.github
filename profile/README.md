@@ -10,7 +10,7 @@ Our mission is to translate vector geometry, which is the fundamental recusrive 
 ## Core Pillars of Research
 
 ### **1. Unified Fractal Theory**
-The theoretical foundation for all TLD projects. We move beyond linear models to explore geometric scaling and standing wave resonances. 
+The theoretical foundation for all TD projects. We move beyond linear models to explore geometric scaling and standing wave resonances. 
 * **Reference:** [Zenodo Record 18196100](https://zenodo.org/record/18196100)
 
 ### **2. Vortex Lattice Systems (VXL)**
