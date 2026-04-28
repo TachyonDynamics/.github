@@ -12,7 +12,7 @@ Tachyon Lattice Systems Directive
 
 Engineering the Vacuum
 
-Tachyon Lattice Systems is an independent research and development collective dedicated to the practical application of Unified Fractal Theory. We bridge the gap between theoretical physics and high performance computing by treating information, matter, and spacetime as a singular, scale invariant geometric lattice.
+Tachyon Dynamics is an independent research and development collective dedicated to the practical application of Unified Fractal Theory. We bridge the gap between theoretical physics and high performance computing by treating information, matter, and spacetime as a singular, scale invariant geometric lattice.
 
 Open Source Commitment
 
