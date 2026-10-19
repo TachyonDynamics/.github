@@ -63,6 +63,6 @@ To provide the open-source community and independent researchers with the tools 
 
 © 2026 Tachyon Lattice Systems. GNU General Public License v3.0 (GPL-3.0).
 
-© 2026 Xai Avalon Tourney. Research documentation based on Unified Fractal Theory: A Geometric Model of Light, Matter, Space and Time published under CC BY-NC-SA 4.0. DOI https://doi.org/10.5281/zenodo.18152385 
+© 2026 Xai Avalon Tourney. Research documentation based on Unified Fractal Theory: A Geometric Model of Light, Matter, Space and Time published under CC BY-NC-SA 4.0. DOI [https://doi.org/10.5281/zenodo.18152385 ](https://doi.org/10.5281/zenodo.18152385)
 
 support@tachyondynamics.ca
