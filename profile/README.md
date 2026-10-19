@@ -1,4 +1,4 @@
-# Tachyon Dynamics TD
+# Tachyon Dynamics
 ### *Advancing the Recursive Nature of Life*
 
 Tachyon Lattice Dynamics is a sovereign research organization dedicated to the convergence of **Fractal Mathematics**, **High Efficiency Materials Science**, and **Autonomous Computing**. 
