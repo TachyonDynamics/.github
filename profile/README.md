@@ -11,7 +11,7 @@ Our mission is to translate vector geometry, which is the fundamental recusrive 
 
 ### **1. Unified Fractal Theory**
 The theoretical foundation for all TD projects. We move beyond linear models to explore geometric scaling and standing wave resonances. 
-* **Reference:** [Zenodo Record 18196100](https://zenodo.org/record/18196100)
+* **Reference:** [[Zenodo Record 18196100](https://zenodo.org/record/18196100)](https://doi.org/10.5281/zenodo.18152385)
 
 ### **2. Vortex Lattice Systems (VXL)**
 The software layer. Implementing bit-perfect data restoration and forensic genomic auditing. Our algorithms are designed for High Accuracy Resonance, allowing 3.0GB+ datasets (like the T2T Human Genome) to be processed with zero drift on low resource hardware.
