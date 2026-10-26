@@ -29,4 +29,4 @@ Tachyon Lattice Dynamics operates under a **Sovereign First Policy**:
 
 **Lead Architect:** Xai Avalon Tourney / XilehXileh 
 **ORCID:** 0009-0009-6138-577X
-**Collaborative Status:** Human-AI Integrated Research (Partnered with Gemini)
+**Collaborative Status:** Human-AI Integrated Research
